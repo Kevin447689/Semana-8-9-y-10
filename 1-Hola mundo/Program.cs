@@ -10,7 +10,7 @@ namespace _1_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola, mundo"); 
+            Console.WriteLine("hola, mundo");  
             Console.ReadLine();
         }
     }
